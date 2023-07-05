@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "509456743301",
+    "project_id": "noticias-istg",
+    "storage_bucket": "noticias-istg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509456743301:android:1a9e4c7253b45ea5b1a2ec",
+        "android_client_info": {
+          "package_name": "com.hamz.noticiasistg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509456743301-9351tqv54n6jp799enavdvfe8f15u0cc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwSy8Kp_j3Ag1zQtWE4dJ7JLF9z2Rto6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509456743301-9351tqv54n6jp799enavdvfe8f15u0cc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
